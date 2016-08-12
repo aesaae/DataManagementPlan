@@ -2,4 +2,4 @@
 
 This repository is for the work relating to the data management plan for the "Force and flow sensing for enhanced UAV performance" project.
 
-The aim of the data management plan is to set up a DB for the project and a data management & use strategy.
+As part of the data management plan, it is proposed to set up a computerised system for the efficient management of the experimental data generated during the project. This system will comprise of a database (DB) at its core.
